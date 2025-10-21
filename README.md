@@ -28,7 +28,7 @@ cd cases/01_stirred_tank_basic
 
 ## Author
 
-[Your Name]
+Jonas Bafna-Rührer
 
 ## License
 
