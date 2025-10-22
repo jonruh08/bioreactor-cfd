@@ -959,7 +959,7 @@ kLa = (OTR) / (C* - CL)
 
 **This Guide:**
 - Created: October 21, 2025
-- Author: Jon Ruh
+- Author: jonruh08
 - Version: 1.0
 - Location: ~/projects/bioreactor-cfd/docs/workflow_guide.md
 
